@@ -1,2 +1,3 @@
 First text
 text 2
+vim text3
