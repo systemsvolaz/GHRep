@@ -4,3 +4,4 @@ vim text3
 text 4.2
 text 5 amend
 text 6
+clone text
